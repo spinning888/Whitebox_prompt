@@ -1,0 +1,4 @@
+interface:
+  display_name: "whitebox-prompt-skill"
+  short_description: "Model-neutral six-section prompts from whitebox videos"
+  default_prompt: "Use $whitebox-prompt-skill to inspect my whitebox video and write a model-neutral six-section prompt with complete shot coverage, key props, reference-role bindings and a coherent finished environment."
